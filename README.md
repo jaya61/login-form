@@ -20,15 +20,13 @@ HTML5 – For form structure
 
 CSS3 – For styling (optional)
 
-JavaScript (Vanilla JS) – For validation logic
+JavaScript  – For validation logic
 ## How It Works
 1. The form contains Username and Password fields.
 
 2 . When the user clicks Submit, JavaScript runs validation checks:
 
 - Username must be at least 3 characters long.
-
-- Email must match a valid email pattern.
 
 - Password must be at least 6 characters long.
 
